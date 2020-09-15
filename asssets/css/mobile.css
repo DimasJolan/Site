@@ -1,0 +1,13 @@
+@media only screen
+and ( min-device-width : 375px )
+and ( min-device-width : 812px ) 
+{
+.header {
+	background-color: teal;
+}
+
+.footer {
+	background-color: tal;
+}
+
+}
